@@ -7,22 +7,21 @@ import { Link } from 'react-router-dom';
 const About = () => {
   const teamMembers = [
     {
-      name: 'Emma Wilson',
-      role: 'Founder & CEO',
-      bio: 'With over 15 years of experience in career development, Emma founded Echo Mentor to bridge the guidance gap in professional growth.',
-      image: 'https://images.unsplash.com/photo-1504703395950-b89145a5425b?auto=format&fit=crop&w=300&h=300&q=80',
+      name: 'Aashika Jain',
+      role: 'Founder',
+      
+      image: 'https://iconduck.com/icons/58658/person-icon',
     },
     {
-      name: 'Michael Chen',
-      role: 'CTO',
-      bio: 'A tech industry veteran passionate about using technology to connect people and facilitate meaningful professional relationships.',
-      image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&h=300&q=80',
+      name: 'Divyanshi Agarwal',
+      role: 'Founder',
+      image: 'https://iconduck.com/icons/58658/person-icon',
     },
     {
-      name: 'Sophia Rodriguez',
+      name: 'ABC XYZ',
       role: 'Head of Mentorship',
       bio: 'Former executive coach who oversees the mentorship program quality and helps design effective mentor-mentee relationships.',
-      image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&h=300&q=80',
+      image: 'https://iconduck.com/icons/58658/person-icon',
     },
   ];
 
